@@ -6,7 +6,7 @@
 # ## Robustness of One-Sample Estimation Procedures Under Varying Conditions
 
 # %% [markdown]
-# The goal of this simulation study is to investigate how estimation and hypothesis testing are impacted by sample size and the underlying population distribution. This study will comprise two parts: a mean (mu) value of 10 and a standard deviation (sigma) value of 10. 
+# The goal of this simulation study is to investigate how estimation and hypothesis testing are impacted by sample size and the underlying population distribution. We will use a mean (mu) value of 10 and a standard deviation (sigma) value of 10. This study will comprise two parts.
 # 1.  Normal Population with varying n. We will investigate the behavior of one-sample estimation (mean, standard deviation, z-scores, t-scores) under a normal population for varying sample sizes, n (5, 10, 30, 100, 500, 1000).
 # 2. Different Populations with varying n. We will explore the robustness of these estimation and testing procedures when sampling from non-normal distributions (Gamma, Exponential) compared to Normal for smaller sample sizes (10, 30, 500).
 # 
